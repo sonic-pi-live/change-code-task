@@ -12,8 +12,7 @@ A repository is a type of folder on github. Making a copy of a respoistory is ca
 
 ##Step 3: Locate the code!
 
-
-Now navigate back to your account and find the starter code called . The code will look like this but will be in a text file called `code.rb`:
+Now navigate back to your account and find the starter code called . The code will look like this but will be in a text file:
 
 ````ruby
 define :drums do
@@ -35,5 +34,20 @@ end
 in_thread(:drums){loop{drums}}
 in_thread(:synths){loop{synths}}
 ````
+
+##Step 4: Copy the code to your Raspberry Pi
+
+Next you will want to transfer the text file containing the code from your computer to your Raspberry Pi. Click on the button labelled *raw* and save the file onto a removable storage device like a USB memory stick. Once the file has completed the download, remove it safely from the computer and plug it into your Pi. Copy the file from the usb drive to a folder on the Pi. 
+
+##Step 5: Chnage the code
+
+
+
+##Step 6: Upload the changed code to Github
+
+##Step 7: LEarn more about GitHub in Education
+
+You can learn more about how to use [GitHub in Educcation here](https://education.github.com/guide). Including steps on administrating accounts for students. 
+
 
 
