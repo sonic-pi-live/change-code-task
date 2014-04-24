@@ -55,6 +55,8 @@ Follow [Sam](http://github.com/samaaron) or [Carrie Anne](http://github.com/miss
 
 You can comment on their work and give feedback by navigating to their forked respository and then clicking on the **issues** button on the right hand side of the screen. The icon looks like an exclamation mark in a circle. Then you can fill out a comment box and submit it. 
 
+![](issues.png)
+
 ##Step 8: Learn more about GitHub in Education
 
 You can learn more about how to use [GitHub in Education here](https://education.github.com/guide). Including steps on administrating accounts for students. 
