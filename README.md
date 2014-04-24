@@ -53,7 +53,7 @@ The easiest way for you to do this without having to use the command line is to 
 
 Follow [Sam](http://github.com/samaaron) or [Carrie Anne](http://github.com/missphilbin) and anyone else from the project. Then you will be able to see their forked repositories and their changed versions of code.rb
 
-You can comment on their work by..
+You can comment on their work and give feedback by navigating to their forked respository and then clicking on the **issues** button on the right hand side of the screen. The icon looks like an exclamation mark in a circle. Then you can fill out a comment box and submit it. 
 
 ##Step 8: Learn more about GitHub in Education
 
