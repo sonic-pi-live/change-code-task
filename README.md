@@ -45,7 +45,7 @@ Open the text file on your Raspberry Pi and copy and paste the code into Sonic-P
 
 ##Step 6: Upload the changed code to Github
 
-The easiest way for you to do this without having to use the command line is to open the file on github by clicking on the *code.rb* file in your forked repository. (Not our original!) Then click on *edit*. You can then paste your new code over the top. To save your code you need to **commit** it to the repository. You will notice that there is a comment box in which you can give a description to the code that you have changed. Add an explanantion here and then click on *ommit Changes**.
+The easiest way for you to do this without having to use the command line is to open the file on github by clicking on the *code.rb* file in your forked repository. (Not our original!) Then click on *edit*. You can then paste your new code over the top. To save your code you need to **commit** it to the repository. You will notice that there is a comment box in which you can give a description to the code that you have changed. Add an explanantion here and then click on *Commit Changes**.
 
 ![](commit.png)
 
@@ -57,7 +57,7 @@ You can comment on their work by..
 
 ##Step 8: Learn more about GitHub in Education
 
-You can learn more about how to use [GitHub in Educcation here](https://education.github.com/guide). Including steps on administrating accounts for students. 
+You can learn more about how to use [GitHub in Education here](https://education.github.com/guide). Including steps on administrating accounts for students. 
 
 
 
