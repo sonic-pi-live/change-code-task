@@ -12,7 +12,7 @@ A repository is a type of folder on github. Making a copy of a respoistory is ca
 
 ##Step 3: Locate the code!
 
-Now navigate back to your account and find the starter code called . The code will look like this but will be in a text file:
+Now navigate back to your account and find the starter code called `code.rb`. The code will look like this but will be in a text file:
 
 ````ruby
 define :drums do
@@ -41,11 +41,13 @@ Next you will want to transfer the text file containing the code from your compu
 
 ##Step 5: Chnage the code
 
-
+Open the text file on your Raspberry Pi and copy and paste the code into Sonic-Pi. Change this code to make it more interesting in any way that you like. It is now your version of *code.rb*. When you have finished your code, copy and paste it back into a text file and save it onto the usb memory stick.
 
 ##Step 6: Upload the changed code to Github
 
-##Step 7: LEarn more about GitHub in Education
+
+
+##Step 7: Learn more about GitHub in Education
 
 You can learn more about how to use [GitHub in Educcation here](https://education.github.com/guide). Including steps on administrating accounts for students. 
 
